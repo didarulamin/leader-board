@@ -212,6 +212,9 @@ hr {
     align-items: center;
   }
 
+  /* .course {
+    margin-left: 50px;
+  } */
   .section-title {
     text-align: center;
   }
@@ -225,6 +228,9 @@ hr {
     width: 88%;
   }
 
+  /* .container {
+    width: 100%;
+  } */
   .players {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -262,4 +268,7 @@ hr {
 .course-duration p {
   display: inline;
   padding: 2px;
+}
+ {
+  "mode":"full","isactive": false;
 }
